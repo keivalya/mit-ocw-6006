@@ -1,2 +1,3 @@
-# mit-ocw-6006
-Introduction to Algorithms
+# 6.006 Introduction to Algorithms
+
+## Spring 2020 / Undergraduate
