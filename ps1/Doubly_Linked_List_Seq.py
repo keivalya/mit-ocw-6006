@@ -36,9 +36,9 @@ class Doubly_Linked_List_Seq:
         node.item = x
 
     def insert_first(self, x):
-        ###########################
-        # Part (a): Implement me! #
-        ###########################
+        ##########################
+        # Part (a): Implement me! 
+        ##########################
         pass
 
     def insert_last(self, x):
