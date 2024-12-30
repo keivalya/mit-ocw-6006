@@ -33,6 +33,6 @@ Throughout this course I have referred to the [Introduction to Algorithms](https
 | 10   | Lecture 17: Dynamic Programming, Part 3: APSP, Parens, Piano    | Problem Set 7    |
 |      |                                                  | Quiz 2               |
 | 11   | Lecture 18: Dynamic Programming, Part 4: Pseudopolynomials      | Problem Set 8    |
-|      | Lecture 19: Complexity                          | Quiz 3 Review        |
+|      | Lecture 19: Complexity                          |        |
 | 12   | Lecture 20: Course Review                       | Quiz 3               |
 | 13   | Lecture 21: Algorithms—Next Steps               |                      |
