@@ -15,7 +15,7 @@ Throughout this course I have referred to the [Introduction to Algorithms](https
 |------|--------------------------------------------------|----------------------|
 | 1    | Lecture 1: Introduction                         | Problem Set 0    |
 |      | Lecture 2: Data Structures                      |                      |
-| 2    | Lecture 3: Sorting                              | Problem Set 1    |
+| 2    | Lecture 3: Sorting                              | Problem Set 1 ✅   |
 |      | Lecture 4: Hashing                              |                      |
 | 3    | Lecture 5: Linear Sorting                       | Problem Set 2    |
 | 4    | Lecture 6: Binary Trees, Part 1                 | Problem Set 3    |
