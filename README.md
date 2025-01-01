@@ -13,7 +13,7 @@ Throughout this course I have referred to the [Introduction to Algorithms](https
 ## Course Calendar
 | Week | Lectures                                         | Key Dates            |
 |------|--------------------------------------------------|----------------------|
-| 1    | Lecture 1: Introduction                         | Problem Set 0    |
+| 1    | Lecture 1: Introduction                         | Problem Set 0 ✅   |
 |      | Lecture 2: Data Structures                      |                      |
 | 2    | Lecture 3: Sorting                              | Problem Set 1 ✅   |
 |      | Lecture 4: Hashing                              |                      |
