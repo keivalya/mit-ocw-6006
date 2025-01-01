@@ -11,7 +11,7 @@ I am taking [this](https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-
 Throughout this course I have referred to the [Introduction to Algorithms](https://mitpress.mit.edu/9780262533058/introduction-to-algorithms/) Textbook by Cormen, Leiserson, Rivest, and Stein (Third Edition, MIT Press) ISBN: 9780262033848, commonly known as CLRS.
 
 ## Course Calendar
-| Week | Lectures                                         | Key Dates            |
+| Week | Lectures                                         | Key Assignments            |
 |------|--------------------------------------------------|----------------------|
 | 1    | Lecture 1: Introduction                         | Problem Set 0 ✅   |
 |      | Lecture 2: Data Structures                      |                      |
